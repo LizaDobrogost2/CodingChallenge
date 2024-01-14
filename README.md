@@ -1,6 +1,6 @@
 <h1>Multiplatform temperature forecast</h1>
 <h3>Implementation for Android</h3>
-![image](https://github.com/LizaDobrogost2/CodingChallenge/assets/140182530/d3b8ca67-14f3-4029-aa71-aa2d6f5a98b6)
+![photo_2024-01-14_21-17-51](https://github.com/LizaDobrogost2/CodingChallenge/assets/140182530/f341f74b-f86b-421c-b0d5-f400c7590a5d)
 
 <h3>Implementation for IOS</h3>
 ![image](https://github.com/LizaDobrogost2/CodingChallenge/assets/140182530/ba008991-2af2-465d-ba5c-701ddd84562e)
